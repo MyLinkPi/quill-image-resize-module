@@ -1,3 +1,5 @@
+> The version fix fsevents problem
+
 # Quill ImageResize Module
 
 A module for Quill rich text editor to allow images to be resized.
